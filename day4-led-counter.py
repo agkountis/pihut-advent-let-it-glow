@@ -2,7 +2,6 @@ from machine import Pin
 import time
 import random
 
-
 segments = [
     Pin(13, Pin.OUT),
     Pin(12, Pin.OUT),
