@@ -2,10 +2,6 @@
 from machine import Pin
 from neopixel import NeoPixel
 import time
-# Imports
-from machine import Pin
-from neopixel import NeoPixel
-import time
 
 # LED details
 GPIOnumber = 2
